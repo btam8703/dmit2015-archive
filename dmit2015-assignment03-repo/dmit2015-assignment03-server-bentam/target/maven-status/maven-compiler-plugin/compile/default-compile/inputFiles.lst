@@ -1,0 +1,9 @@
+/home/user2015/git/dmit2015-assignment03-repo/dmit2015-assignment03-server-bentam/src/main/java/dmit2015/bentam/assignment03/repository/OscarReviewRepository.java
+/home/user2015/git/dmit2015-assignment03-repo/dmit2015-assignment03-server-bentam/src/main/java/dmit2015/bentam/assignment03/config/ApplicationConfig.java
+/home/user2015/git/dmit2015-assignment03-repo/dmit2015-assignment03-server-bentam/src/main/java/dmit2015/bentam/assignment03/resource/OscarReviewResource.java
+/home/user2015/git/dmit2015-assignment03-repo/dmit2015-assignment03-server-bentam/src/main/java/dmit2015/bentam/assignment03/entity/OscarReview.java
+/home/user2015/git/dmit2015-assignment03-repo/dmit2015-assignment03-server-bentam/src/main/java/net/bootfaces/themes/Theme.java
+/home/user2015/git/dmit2015-assignment03-repo/dmit2015-assignment03-server-bentam/src/main/java/dmit2015/bentam/assignment03/view/OscarReviewController.java
+/home/user2015/git/dmit2015-assignment03-repo/dmit2015-assignment03-server-bentam/src/main/java/dmit2015/bentam/assignment03/config/JAXRSConfiguration.java
+/home/user2015/git/dmit2015-assignment03-repo/dmit2015-assignment03-server-bentam/src/main/java/dmit2015/bentam/assignment03/view/OscarReviewCreateController.java
+/home/user2015/git/dmit2015-assignment03-repo/dmit2015-assignment03-server-bentam/src/main/java/dmit2015/bentam/assignment03/view/OscarReviewEditController.java

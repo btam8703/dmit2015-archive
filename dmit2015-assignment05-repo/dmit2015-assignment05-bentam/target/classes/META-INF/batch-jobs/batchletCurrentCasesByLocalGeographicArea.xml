@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<job id="batchletCurrentCasesByLocalGeographicArea"
+     xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+     version="1.0">
+
+    <listeners>
+        <listener ref="currentCasesByLocalGeographicAreaJobListener"/>
+    </listeners>
+
+    <step id="step1">
+        <batchlet ref="currentCasesByLocalGeographicAreaBatchlet"/>
+    </step>
+
+</job>

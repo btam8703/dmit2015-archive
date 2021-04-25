@@ -1,0 +1,4 @@
+INSERT INTO OscarReview (category, nominee, review, username, createdDateTime)  VALUES('actor', 'Sam Wu', 'Heart wrenching performance by Sam Wu', 'filmguy1', '2020-02-05');
+INSERT INTO OscarReview (category, nominee, review, username, createdDateTime)  VALUES('effects', 'Transformers', 'Good realistic effects', 'reviewer21', '2020-02-05');
+INSERT INTO OscarReview (category, nominee, review, username, createdDateTime)  VALUES('editing', 'Crouching Tiger Hidden Dragon', 'Cuts feel good to the viewer', 'coolguy2', '2020-02-05');
+INSERT INTO OscarReview (category, nominee, review, username, createdDateTime)  VALUES('film', 'Generic Movie', 'Best film of the year hands down', 'bttreview', '2020-02-05');

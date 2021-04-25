@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="dmit2015-assignment02-benjamintam:war" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1393fb62-17bb-4ba0-8ac9-1d3235eed7d4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1p8BCb3lT8gkZnlaze3iY8Xlt6T" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../dmit2015-project-repo/dmit2015-project-rest-services-benjamintam" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources" />
+      <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF" />
+      <recent name="$PROJECT_DIR$/src/test/java/dmit2015/bentam/assignment02/repository" />
+      <recent name="$PROJECT_DIR$/src/main/resources/META-INF/sql" />
+      <recent name="$PROJECT_DIR$/src/main/java/dmit2015/bentam/assignment02/repository" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="dmit2015.bentam.assignment02.resource" />
+      <recent name="dmit2015.bentam.assignment02.repository" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="dmit2015.bentam.assignment02.config" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JBoss/WildFly Server.JBoss 21.0.2.Final">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JBoss 21.0.2.Final" type="JBossConfiguration" factoryName="Local" APPLICATION_SERVER_NAME="JBoss 21.0.2.Final" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/dmit2015-assignment02-benjamintam/h2-console" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="dmit2015-assignment02-benjamintam:war">
+          <settings />
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="SERVER" />
+        <option name="BINDING_SET_NAME" value="" />
+        <option name="DOMAIN" value="false" />
+        <option name="SERVER_GROUP" value="main-server-group" />
+        <option name="USERNAME" value="" />
+        <option name="CREDENTIAL_ALIAS" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="JBoss" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="45635" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="dmit2015-assignment02-benjamintam:war" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="OscarReviewRepositoryIT" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dmit2015-assignment02-benjamintam" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dmit2015.bentam.assignment02.repository.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dmit2015.bentam.assignment02.repository" />
+      <option name="MAIN_CLASS_NAME" value="dmit2015.bentam.assignment02.repository.OscarReviewRepositoryIT" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OscarReviewRepositoryIT.shouldAdd" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dmit2015-assignment02-benjamintam" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dmit2015.bentam.assignment02.repository.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dmit2015.bentam.assignment02.repository" />
+      <option name="MAIN_CLASS_NAME" value="dmit2015.bentam.assignment02.repository.OscarReviewRepositoryIT" />
+      <option name="METHOD_NAME" value="shouldAdd" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OscarReviewRepositoryIT.shouldFindAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dmit2015-assignment02-benjamintam" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dmit2015.bentam.assignment02.repository.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dmit2015.bentam.assignment02.repository" />
+      <option name="MAIN_CLASS_NAME" value="dmit2015.bentam.assignment02.repository.OscarReviewRepositoryIT" />
+      <option name="METHOD_NAME" value="shouldFindAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OscarReviewResourceMicroshedTestingIT" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dmit2015-assignment02-benjamintam" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dmit2015.bentam.assignment02.resource.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dmit2015.bentam.assignment02.resource" />
+      <option name="MAIN_CLASS_NAME" value="dmit2015.bentam.assignment02.resource.OscarReviewResourceMicroshedTestingIT" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OscarReviewResourceMicroshedTestingIT.shouldListAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dmit2015-assignment02-benjamintam" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dmit2015.bentam.assignment02.resource.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dmit2015.bentam.assignment02.resource" />
+      <option name="MAIN_CLASS_NAME" value="dmit2015.bentam.assignment02.resource.OscarReviewResourceMicroshedTestingIT" />
+      <option name="METHOD_NAME" value="shouldListAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JBoss/WildFly Server.JBoss 21.0.2.Final" />
+      <item itemvalue="JUnit.OscarReviewRepositoryIT" />
+      <item itemvalue="JUnit.OscarReviewRepositoryIT.shouldAdd" />
+      <item itemvalue="JUnit.OscarReviewResourceMicroshedTestingIT" />
+      <item itemvalue="JUnit.OscarReviewResourceMicroshedTestingIT.shouldListAll" />
+      <item itemvalue="JUnit.OscarReviewRepositoryIT.shouldFindAll" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.OscarReviewResourceMicroshedTestingIT" />
+        <item itemvalue="JUnit.OscarReviewRepositoryIT.shouldFindAll" />
+        <item itemvalue="JUnit.OscarReviewRepositoryIT.shouldAdd" />
+        <item itemvalue="JUnit.OscarReviewRepositoryIT" />
+        <item itemvalue="JUnit.OscarReviewResourceMicroshedTestingIT.shouldListAll" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1393fb62-17bb-4ba0-8ac9-1d3235eed7d4" name="Default Changelist" comment="" />
+      <created>1614554712322</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614554712322</updated>
+      <workItem from="1614554715095" duration="10756000" />
+      <workItem from="1614566680825" duration="11015000" />
+      <workItem from="1614579777388" duration="3924000" />
+      <workItem from="1614584115738" duration="1237000" />
+      <workItem from="1614624588128" duration="655000" />
+      <workItem from="1614647279592" duration="1947000" />
+      <workItem from="1614654694731" duration="112000" />
+      <workItem from="1614662719496" duration="3805000" />
+      <workItem from="1614666634829" duration="818000" />
+      <workItem from="1614697569126" duration="598000" />
+      <workItem from="1614703038049" duration="549000" />
+      <workItem from="1614837894881" duration="209000" />
+      <workItem from="1614838173052" duration="6737000" />
+      <workItem from="1614927596306" duration="162000" />
+      <workItem from="1614995769562" duration="6552000" />
+      <workItem from="1615169779899" duration="817000" />
+      <workItem from="1615352427102" duration="1501000" />
+      <workItem from="1615354066780" duration="1696000" />
+      <workItem from="1615355815177" duration="605000" />
+      <workItem from="1615417460832" duration="963000" />
+      <workItem from="1617919221046" duration="1319000" />
+      <workItem from="1617921129265" duration="756000" />
+      <workItem from="1617927354499" duration="122000" />
+      <workItem from="1618896359581" duration="171000" />
+      <workItem from="1618964365623" duration="1629000" />
+      <workItem from="1618966508529" duration="1608000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.IllegalAccessException" package="java.lang" />
+          <option name="timeStamp" value="22" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
